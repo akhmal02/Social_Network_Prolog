@@ -1,0 +1,7 @@
+# Editor & Backup files
+*~
+*.swp
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
